@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+main{
+    width: 1000px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+section{
+  display: flex;
+}
+div{
+    width: 400px;
+}
+.person_name{
+    padding-left: 100px;
+}
+.person_name h2{
+font-size: 30px;
+} 
+.person_name p{
+    font-size: 25px;
+}
